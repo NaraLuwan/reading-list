@@ -20,6 +20,7 @@
 1. 《Redis in Action》 by Josiah L. Carlson :+1:
 1. 《Java 8 实战》 by 厄马(Raoul-Gabriel Urma) / 弗斯科(Mario Fusco) / 米克罗夫特(Alan Mycroft) :+1:
 1. 《大话设计模式》 by 程杰
+1. 《Spark 快速大数据分析》 by [美]Holden Karau / [美]Andy Konwinski（王道远 译）
 
 
 ## 散文集丨小说
