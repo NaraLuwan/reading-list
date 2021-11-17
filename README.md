@@ -24,6 +24,7 @@
 1. 《Spark 快速大数据分析》 by [美]Holden Karau / [美]Andy Konwinski（王道远 译）
 1. 《深入理解计算机系统》 by[美]Randal E.Bryant / [美]David R.O'Hallaron（龚奕利 贺莲 译） :+1:
 1. 《C程序设计语言》 by[美]Brian W. Kernighan / [美] Dennis M. Ritchie（徐宝文 李志 译） :+1:
+1. 《Go程序设计语言》 by[美]艾伦 A. A. 多诺万 /（李道兵 高博 庞向才 金鑫鑫 林齐斌 译） :+1:
 
 
 ## 散文集丨小说
